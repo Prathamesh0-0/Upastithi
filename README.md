@@ -32,21 +32,16 @@ Upastithi is a powerful web-based application designed specifically for construc
 - Smart water pump control
 - Soil moisture detection and logging
 
-### 🎨 UI/UX
-- Fixed professional theme
-- Smooth animations and intuitive design
-- Responsive layout for desktop and tablets
-
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer          | Technology                     |
-|----------------|--------------------------------|
-| Frontend       | TypeScript + React (or equivalent) |
+| Layer          | Technology                    |
+|----------------|-------------------------------|
+| Frontend       | TypeScript + React            |
 | Backend/Auth   | Supabase                      |
 | Database       | Supabase PostgreSQL           |
-| Deployment     | Vercel / Netlify / Custom     |
+| Deployment     | Vercel                        |
 | File Export    | jsPDF, ExcelJS, etc.          |
 
 ---
