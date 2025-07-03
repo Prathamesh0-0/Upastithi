@@ -1,4 +1,4 @@
-#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_ID "*"
 #define BLYNK_TEMPLATE_NAME "water level monitoring system"
 #define BLYNK_FIRMWARE_VERSION "0.1.0"
 #define BLYNK_PRINT Serial
