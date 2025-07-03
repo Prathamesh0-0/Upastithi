@@ -7,7 +7,7 @@ import { Droplet, Activity, Power, ToggleLeft } from 'lucide-react';
 export default function IoTControls() {
   const handleWaterPumpClick = () => {
     // Redirect to the Blynk dashboard
-    window.open('https://blynk.cloud/dashboard/278932/global/devices/1/organization/278932/devices/1069329/dashboard', '_blank');
+    window.open('https://blynk.cloud/', '_blank');
   };
 
   return (
